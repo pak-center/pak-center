@@ -5,7 +5,7 @@ Here you will find projects related to IBM mainframe technologies from the areas
 
 The most recent are COBOL projects for z/OS.
 
-Migrated from SourceForge.net legacy and substandard code of zpmd & zmpc from the diploma thesis (IBM System z Academic Initiative). In the near future it will be archived and rewritten from C to Rust & Java-Swing to Android Java.
+SourceForge.net migrated legacy and substandard code of zpmd & zmpc from the diploma thesis (IBM System z Academic Initiative). In the near future it will be archived and rewritten from C to Rust & Java-Swing to Android Java.
 
 **TODO**
 - Find my small PGMs written in languages: Assembler - BAL, REXX, COBOL, JCL and upload as project.
