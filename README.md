@@ -1,14 +1,14 @@
-Here you will find projects related to IBM mainframe technologies from the areas of z/VM (CP MONITOR, CMS, DCSS, TPC/IP Stack, REXX), z/Linux (Rust, C, MySQL, /dev/monreader, /dev/monwriter), z/OS (COBOL, BAL, REXX, JCL).
+Here you will find projects related to IBM mainframe technologies in the areas of z/VM (CP MONITOR, CMS, DCSS, TPC/IP stack, REXX), z/Linux (Rust, C, MySQL, /dev/monreader, /dev/monwriter), z/OS (COBOL, BAL, REXX, JCL).
 
-The most recent are COBOL projects for z/OS and fresh zEM project(formely known as zpmd) at the docs stage.
+The latest are COBOL projects for z/OS and fresh zEM project(formerly known as zpmd) at the docs stage.
 
-**SourceForge.net's** migrated legacy and substandard code of zpmd & zmpc from the diploma thesis (IBM System z Academic Initiative). In the near future it will be archived and rewritten from C to Rust as **zEM** project & Java-Swing to Android Java.
+Migrated the legacy and substandard zpmd & zmpc code from the diploma thesis (IBM System z Academic Initiative) from **SourceForge.net** to Github. In the near future it will be archived and rewritten from C to Rust as the **zEM** project & Java-Swing to Android Java.
 
 - 👯 I am looking forward to collaborate on z/OS SMF records.
-- 🤔 I am looking for help with access to the newest version of z/OS & z/VM with compilers PTFs.
+- 🤔 I am looking for help in accessing the latest version of z/OS & z/VM with compiler PTFs.
 - 📫 How to reach me: `DISPLAY FIRST-LETTER-OF-NAME, SURNAME, '@', GOOGLE-MAIL`
 ##### TODO
-* Find my small PGMs written in languages: Assembler - BAL, REXX, COBOL, JCL and upload as project.
+* Find my PGMs written in languages: Assembler - BAL, REXX, COBOL, JCL and upload as project.
 * Rewrite from scratch z/VM MONITOR projects from MySQL database, C, Java Swing code to PostgreSQL database, Rust, Android Java.
 <!--
 **pak-center/pak-center** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
