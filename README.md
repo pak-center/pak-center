@@ -1,6 +1,6 @@
 Here you will find projects related to IBM mainframe technologies in the areas of z/VM (CP MONITOR, CMS, DCSS, TPC/IP stack, REXX), z/Linux (Rust, C, MySQL, /dev/monreader, /dev/monwriter), z/OS (COBOL, BAL, REXX, JCL).
 
-The latest are COBOL projects for z/OS and fresh zEM project(formerly known as zpmd) at the docs stage.
+The latest are COBOL projects for z/OS and fresh zEM project (formerly known as zpmd) at the docs stage.
 
 Migrated the legacy and substandard zpmd & zmpc code from the diploma thesis (IBM System z Academic Initiative) from **SourceForge.net** to Github. In the near future it will be archived and rewritten from C to Rust as the **zEM** project & Java-Swing to Android Java.
 
