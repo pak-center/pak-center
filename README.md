@@ -2,7 +2,7 @@ Here you will find projects related to IBM mainframe technologies from the areas
 
 The most recent are COBOL projects for z/OS.
 
-**SourceForge.net's** migrated legacy and substandard code of zpmd & zmpc from the diploma thesis (IBM System z Academic Initiative). In the near future it will be archived and rewritten from C to Rust & Java-Swing to Android Java.
+**SourceForge.net's** migrated legacy and substandard code of zpmd & zmpc from the diploma thesis (IBM System z Academic Initiative). In the near future it will be archived and rewritten from C to Rust as **zEM** project & Java-Swing to Android Java.
 
 - 👯 I am looking forward to collaborate on z/OS SMF records.
 - 🤔 I am looking for help with access to the newest version of z/OS & z/VM with compilers PTFs.
