@@ -1,4 +1,4 @@
-Here you will find projects related to IBM mainframe technologies in the areas of z/VM (CP *MONITOR, CMS, MONDCSS, TPC/IP stack, REXX), z/Linux (Rust, C, /dev/monreader, /dev/monwriter), z/OS (COBOL, BAL, REXX, JCL).
+Here you will find projects related to IBM mainframe technologies in the areas of z/Linux (Rust, C, /dev/monreader, /dev/monwriter), z/VM (CP *MONITOR, CMS, MONDCSS, TPC/IP stack, REXX, BAL), z/OS (COBOL, BAL, REXX, JCL)
 
 The latest are COBOL projects for z/OS and fresh zEM project (formerly known as zpmd) at the docs stage.
 
@@ -6,10 +6,13 @@ Migrated the legacy and substandard zpmd & zmpc code from the diploma thesis (IB
 
 - 👯 I am looking forward to collaborate on z/OS SMF records.
 - 🤔 I am looking for help in accessing the latest version of z/OS & z/VM with compiler PTFs.
-- 📫 How to reach me: `DISPLAY FIRST-LETTER-OF-NAME, SURNAME, '@', GOOGLE-MAIL`
-##### TODO
-- [ ] Find my PGMs written in languages: Assembler - BAL, REXX, COBOL, JCL and upload as project.
-- [ ] Rewrite from scratch z/VM MONITOR projects from MySQL database, C, Java Swing code to PostgreSQL database, Rust, Android Java.
+- 📫 How to reach me: `DISPLAY FIRST-LETTER-OF-MY-NAME, MY-SURNAME, '@', GOOGLE-MAIL`
+
+##### TODO:
+
+- [ ] Find & upload my PGMs written in languages: Assembler - BAL, REXX, COBOL, JCL
+- [ ] Rewrite from scratch z/VM *MONITOR projects from C to Rust, Java Swing to Android Java, MySQL to PostgreSQL database
+
 <!--
 **pak-center/pak-center** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
