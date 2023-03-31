@@ -1,4 +1,4 @@
-Here you will find projects related to IBM mainframe technologies in the areas of z/VM (CP MONITOR, CMS, DCSS, TPC/IP stack, REXX), z/Linux (Rust, C, MySQL, /dev/monreader, /dev/monwriter), z/OS (COBOL, BAL, REXX, JCL).
+Here you will find projects related to IBM mainframe technologies in the areas of z/VM (CP *MONITOR, CMS, MONDCSS, TPC/IP stack, REXX), z/Linux (Rust, C, /dev/monreader, /dev/monwriter), z/OS (COBOL, BAL, REXX, JCL).
 
 The latest are COBOL projects for z/OS and fresh zEM project (formerly known as zpmd) at the docs stage.
 
