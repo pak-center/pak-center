@@ -8,8 +8,8 @@ Migrated the legacy and substandard zpmd & zmpc code from the diploma thesis (IB
 - 🤔 I am looking for help in accessing the latest version of z/OS & z/VM with compiler PTFs.
 - 📫 How to reach me: `DISPLAY FIRST-LETTER-OF-NAME, SURNAME, '@', GOOGLE-MAIL`
 ##### TODO
-* Find my PGMs written in languages: Assembler - BAL, REXX, COBOL, JCL and upload as project.
-* Rewrite from scratch z/VM MONITOR projects from MySQL database, C, Java Swing code to PostgreSQL database, Rust, Android Java.
+- [ ] Find my PGMs written in languages: Assembler - BAL, REXX, COBOL, JCL and upload as project.
+- [ ] Rewrite from scratch z/VM MONITOR projects from MySQL database, C, Java Swing code to PostgreSQL database, Rust, Android Java.
 <!--
 **pak-center/pak-center** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
